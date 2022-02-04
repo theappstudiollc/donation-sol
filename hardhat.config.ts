@@ -27,7 +27,7 @@ export const contractConfig = {
 /**
  * @type import('hardhat/config').HardhatUserConfig
  */
- const config: HardhatUserConfig = {
+const config: HardhatUserConfig = {
 	solidity: {
 		compilers: [
 			{
